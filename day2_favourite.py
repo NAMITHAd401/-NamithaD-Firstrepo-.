@@ -1,0 +1,5 @@
+print("My favourite colour is red")
+print ("My favourite food is Dose")
+print("My favourite sport is cricket")
+print ("My favourite subject is python")
+print("I will practice every day python")
